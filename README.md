@@ -2,9 +2,9 @@
 
 ---
 
-![](raw/Game.png "BlackSnake (BlackJack in Python)")
-
 A simple BlackJack game in Python.
+
+![](raw/Game.png "BlackSnake (BlackJack in Python)")
 
 **Features**
 
@@ -14,8 +14,10 @@ A simple BlackJack game in Python.
 
 **To Play**
 
-1. With Python installed on your machine, navigate to the directory of BlackJack.py
-2. python BlackJack.py
+1. Clone/download repository
+2. Ensure Python is installed on your machine
+3. Navigate to the directory of BlackJack.py in terminal/cmd
+  > python BlackJack.py
 
 ---
 
