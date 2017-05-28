@@ -2,13 +2,18 @@
 
 ---
 
+![](raw/Game.png "BlackSnake (BlackJack in Python)")
+
 A simple BlackJack game in Python.
+
+**Features**
 
 * Choose bankroll
 * Choose # of decks
 * Continuous play
 
 **To Play**
+
 1. With Python installed on your machine, navigate to the directory of BlackJack.py
 2. python BlackJack.py
 
