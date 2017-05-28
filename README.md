@@ -4,7 +4,7 @@
 
 A simple BlackJack game in Python.
 
-![](raw/Game.png "BlackSnake (BlackJack in Python)")
+![](raw/BlackJack.gif "BlackSnake (BlackJack in Python)")
 
 **Features**
 
